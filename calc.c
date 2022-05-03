@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../include/calc5.h"
+#include "calc.h"
 
 double toi51(int m,int n)
 {
